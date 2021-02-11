@@ -8,7 +8,7 @@
 
 提案手法によりルンゲクッタ法の次数を変更しながら学習させたPythonコード
 
-##reach_experiment.py
+## reach_experiment.py
 
 一定の精度（報酬）に到達するまでの時間を測るPythonコード
 

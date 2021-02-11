@@ -17,4 +17,4 @@ code：実験に使用したPythonコード．
 
 result：実験結果のtxtファイルを使って実験結果を表示するPythonコード．
 
-acrobot.py：ルンゲクッタの近似次数を変更できるようにOpenAI Gymからダウンロードしたacrobot.pyを改変したもの．実行する際にはダウンロードしたOpenAI Gymのacrobot.pyをこのacrobot.pyに差し替える．
+acrobot.py：ルンゲクッタの近似次数を変更できるようにOpenAI Gymからダウンロードしたacrobot.pyを改変したもの．
